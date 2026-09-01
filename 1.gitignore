@@ -1,0 +1,19 @@
+# Core auxiliary files
+*.aux
+*.log
+*.toc
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Bibliography files
+*.bbl
+*.blg
+*.bcf
+*.run.xml
+
+# Output (Optional: omit if you want to track the built PDF)
+*.pdf
+*.dvi
+*.ps
